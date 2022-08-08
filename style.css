@@ -1,0 +1,32 @@
+.copy_right_footer{
+position: fixed;
+bottom:0;
+width: 100%;
+text-align: center;
+text-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#aplicatvo_de_colagem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#cabecalho{
+    font-style: bold;
+}
+
+#camera{
+    width: 500px;
+    weight: 400px;
+    border-color: blue;
+}
+
+img:hover{
+    border-radius: 140px;
+    box-shadow: 0 6px 0 rgba(2, 2, 2, 0.2);
+}
